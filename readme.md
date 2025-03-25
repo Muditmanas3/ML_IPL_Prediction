@@ -66,13 +66,13 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/ipl-win-predictor.git
+   git clone git clone https://github.com/Muditmanas3/ML_IPL_Prediction.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd ipl-win-predictor
+   cd ML_IPL_Prediction
    ```
 
 3. Install the required Python libraries:
